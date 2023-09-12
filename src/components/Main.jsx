@@ -13,7 +13,11 @@ function Main() {
             <br />
             Email-ID :- <b>anamika170304@gmail.com</b> <br />
             <br />
-            Address :- <b> ASANSOL, India </b> <br />
+            Graduation :- <b>B.A. in Philosophy, </b>{" "}
+            <b>Asansol Girl's College</b>
+            <br />
+            <br />
+            Address :- <b> ASANSOL, West Bengal, India </b> <br />
             <br />
             About Me :- <br />
             <b>
