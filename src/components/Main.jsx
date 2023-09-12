@@ -43,6 +43,8 @@ function Main() {
                 <li> MySQL</li>
                 <li> PHP</li>
                 <li> XAMPP</li>
+                <li> Git</li>
+                <li> Github</li>
               </ol>
             </b>
           </div>

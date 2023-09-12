@@ -25,7 +25,7 @@ function Navbar() {
           <li className="list-item-inline">
             <a
               className="link"
-              href="https://anamika-portfolio.vercel.app/"
+              href="https://anamika-portfolio-gamma.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
