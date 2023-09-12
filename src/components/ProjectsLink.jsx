@@ -11,6 +11,19 @@ function ProjectsLink() {
           <br />
           <li>
             <a
+              href="https://drive.google.com/file/d/1rs28hxboGjPUuZXLKie23YNtB3a2BjKx/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              <button>
+                <b>My Resume</b>
+              </button>
+            </a>
+          </li>
+          <br />
+          <li>
+            <a
               href="https://anamika-portfolio-gamma.vercel.app/"
               target="_blank"
               rel="noreferrer"
